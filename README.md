@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **gallofrancogabriel@gmail.com**
 
-- 📄 About me: I am a person who some time ago discovered this world of programming and was fascinated. I love to continue learning and perfecting myself every day. I am a person who some time ago discovered this world of programming and was fascinated. I love to continue learning and perfecting myself every day.
+- 📄 About me: I am a person who some time ago discovered this world of programming and was fascinated. I love to continue learning and perfecting myself every day.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
